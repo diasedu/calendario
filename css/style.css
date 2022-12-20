@@ -1,0 +1,34 @@
+* {
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1,h2 {
+    text-align: center;
+}
+
+div { margin: auto;}
+
+
+table, thead, tbody, tr, td {
+    border: solid black;
+}
+
+thead {
+    background-color: cornflowerblue;
+}
+
+td:hover {
+    background-color: beige;
+    cursor: pointer;
+}
+
+.grid-conteiner > div {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+}
+
+.fds {
+    font-weight: bold;
+    color: red;
+}
