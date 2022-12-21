@@ -32,3 +32,12 @@ td:hover {
     font-weight: bold;
     color: red;
 }
+
+#today {
+    background-color: #F0E68C;
+    color: gray;
+}
+
+#currentMonth {
+    background-color: gray;
+}
