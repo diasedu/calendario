@@ -51,11 +51,11 @@ setInterval(function () {
                 monthInAttritube = 8;
                 break;
 
-            case 'octuber':
+            case 'october':
                 monthInAttritube = 9;
                 break;
 
-            case 'nobember':
+            case 'november':
                 monthInAttritube = 10;
                 break;
 
